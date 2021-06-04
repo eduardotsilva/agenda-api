@@ -9,7 +9,7 @@
 
 # agenda-api
 
-## Desafios
+## Projeto composto por:
 1. Spring Boot
 2. Postgres Database
 3. Swagger
