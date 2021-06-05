@@ -14,7 +14,6 @@
 2. Postgres Database
 3. Swagger
 
-## Execução
 
 
 
